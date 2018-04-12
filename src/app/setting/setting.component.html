@@ -1,0 +1,12 @@
+<div class="container">
+<form class="col-md-6 offset-3 my-2 p-1">
+    <div class="form-group">
+        <input type="text" class="form-control" name="city" [(ngModel)]="city" placeholder="City">
+    </div>
+    <div class="form-group">
+        <input type="text" class="form-control" name="code" [(ngModel)]="code" placeholder="Code">
+    </div>
+    <button class="btn btn-warning" type="submit" (click)="onSubmit()">Save</button>
+  
+</form>
+</div>
