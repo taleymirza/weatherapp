@@ -1,27 +1,19 @@
-# Appweather
+# Appweather - Angular 5 App using Weather API
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+It's an Angular 5 Weather App using Weather API from https://openweathermap.org/api 
+It takes City Name and its Code, gets data from API in Web Service and output real time Weather data on Screen
 
-## Development server
+## Initial Setup
+
+Get Started by installing Angular CLI from https://angular.io/guide/quickstart and setting up the development environment.
+
+## Download or Clone
+
+Download or clone this repository. Using Terminal/CMD, navigate to the project directory.
+
+## Development Server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+I have taken help from https://github.com/ibrahimBelkhiria YouTube's Channel for Learning!
